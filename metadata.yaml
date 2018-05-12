@@ -1,5 +1,8 @@
 _repo: Die-Richterin_9632
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meyer, Conrad Ferdinand
@@ -15,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
     - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9632#Die-Richterin
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
